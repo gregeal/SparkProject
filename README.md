@@ -1,2 +1,2 @@
 # SparkProject
-Practicing Various operations with Pyspark
+Practicing various operations with Pyspark
